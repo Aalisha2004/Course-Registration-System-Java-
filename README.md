@@ -18,11 +18,7 @@ A simple console-based Course Registration System implemented in Java. This proj
 
 ## How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/course-registration-system-java.git
-   cd course-registration-system-java
-2.**Compile and run**
+**Compile and run**
 javac CourseRegistrationSystem.java
 java CourseRegistrationSystem
 
